@@ -1,2 +1,5 @@
 Git Demo - Start
+<<<<<<< HEAD
 Resolved merge Temporary unfinished change
+=======
+>>>>>>> parent of 51100f9 (Update demo.txt in main)
