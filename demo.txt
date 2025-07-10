@@ -7,3 +7,4 @@ Resolved merge Temporary unfinished change
 =======
 Additional main branch info
 >>>>>>> parent of c023f8e (Resolve merge conflict between main and feature/merge-demo)
+Some other change in main
