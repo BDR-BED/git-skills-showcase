@@ -1,2 +1,2 @@
 Git Demo - Start
-Resolved merge 
+Resolved merge Temporary unfinished change
