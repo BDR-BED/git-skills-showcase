@@ -1,5 +1,9 @@
 Git Demo - Start
 <<<<<<< HEAD
+<<<<<<< HEAD
 Resolved merge Temporary unfinished change
 =======
 >>>>>>> parent of 51100f9 (Update demo.txt in main)
+=======
+Additional main branch info
+>>>>>>> parent of c023f8e (Resolve merge conflict between main and feature/merge-demo)
