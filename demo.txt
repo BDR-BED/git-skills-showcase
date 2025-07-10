@@ -1,2 +1,2 @@
 Git Demo - Start
-Additional main branch info
+Resolved merge 
