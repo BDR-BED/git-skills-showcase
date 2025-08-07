@@ -2,6 +2,8 @@
 
 This repository demonstrates my practical knowledge of Git version control. It includes examples of key commands used in real-world workflows: branching, merging, resolving conflicts, working with history, stashing, resetting, rebasing, and more.
 
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 ---
 
 ## 📁 Repository Structure
